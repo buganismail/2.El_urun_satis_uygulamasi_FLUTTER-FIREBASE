@@ -1,4 +1,4 @@
-# Proje Flutter ile oluşturulmuş Firebase veritabanını kullanan bir 2.el ürün satış uygulamasıdır.
+# Proje Flutter ile oluşturulmuş Firebase veritabanını kullanan 2.el ürün satış uygulamasıdır.
 -Kullanıcı Girişi
 -Anasayfa
 -Ürün Ekle
